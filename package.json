@@ -1,0 +1,22 @@
+{
+  "name": "beoynd",
+  "version": "1.0.0",
+  "description": "blockchain test",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo"
+  },
+  "author": "ammarrrrrrrr@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "truffle": "^5.5.9",
+    "lite-server": "^2.6.1",
+    "chai": "^4.3.6",
+    "truffle-contract": "^4.0.31"
+  }
+}
